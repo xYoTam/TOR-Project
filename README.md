@@ -1,11 +1,14 @@
 # TOR-Project
 How to Run:
 
-Start the main server using:
+Start the main server by running:
+
 python server.py --main
 
 Launch as many relay nodes as you want by running:
+
 python server.py
+
 and enter the main Tor server IP
 
 Start the client GUI with:
