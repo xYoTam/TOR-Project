@@ -5,11 +5,13 @@ Start the main server by running:
 
 python server.py --main
 
+
 Launch as many relay nodes as you want by running:
 
 python server.py
 
 and enter the main Tor server IP
+
 
 Start the client GUI with:
 python client.py
@@ -17,6 +19,7 @@ and enter the main Tor server IP
 and enjoy the secure networking!
 
 💡 You can test the communication using destination_server.py, which returns the current time when you send the message "TIME".
+
  
 An explanation about the programs:
 
